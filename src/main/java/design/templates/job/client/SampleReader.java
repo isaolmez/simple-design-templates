@@ -1,4 +1,4 @@
-package design.templates.job.main;
+package design.templates.job.client;
 
 import java.util.Date;
 

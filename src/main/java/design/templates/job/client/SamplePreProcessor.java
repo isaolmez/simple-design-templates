@@ -1,4 +1,4 @@
-package design.templates.job.main;
+package design.templates.job.client;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
